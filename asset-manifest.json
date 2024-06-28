@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/PortfolioKedar/static/css/main.3747a092.css",
-    "main.js": "/PortfolioKedar/static/js/main.7f52303b.js",
+    "main.js": "/PortfolioKedar/static/js/main.36d1509c.js",
+    "static/media/Resume_kedar.pdf": "/PortfolioKedar/static/media/Resume_kedar.c779574295f2e9746003.pdf",
     "static/media/project1.png": "/PortfolioKedar/static/media/project1.dcdcd3c38f1fe90fd3e7.png",
     "static/media/project2.png": "/PortfolioKedar/static/media/project2.a434d386dbe879ab4cdb.png",
     "static/media/project3.png": "/PortfolioKedar/static/media/project3.2cc77bf563ea3f097f3b.png",
@@ -10,10 +11,10 @@
     "static/media/fend.png": "/PortfolioKedar/static/media/fend.8528663f40e1d0a931d6.png",
     "index.html": "/PortfolioKedar/index.html",
     "main.3747a092.css.map": "/PortfolioKedar/static/css/main.3747a092.css.map",
-    "main.7f52303b.js.map": "/PortfolioKedar/static/js/main.7f52303b.js.map"
+    "main.36d1509c.js.map": "/PortfolioKedar/static/js/main.36d1509c.js.map"
   },
   "entrypoints": [
     "static/css/main.3747a092.css",
-    "static/js/main.7f52303b.js"
+    "static/js/main.36d1509c.js"
   ]
 }
